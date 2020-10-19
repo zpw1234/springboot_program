@@ -14,8 +14,8 @@ import java.util.List;
 
 public class TestVod {
     public static void main(String[] args) throws ClientException {
-        String accessKeyId = "LTAI4G9ynKXThNT4fqBexPDv";
-        String accessKeySecret = "4qVxYHeaqR7j68mfqlcN8dX2xhfoKg";
+        String accessKeyId = "";
+        String accessKeySecret = "";
         String title = "z - What If I Want to Move Faster";
         String fileName = "F:\\educateProgram\\在线教育项目\\项目资料\\1-阿里云上传测试视频\\6 - What If I Want to Move Faster.mp4";
 
